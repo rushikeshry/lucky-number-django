@@ -17,4 +17,4 @@ For Frontend: HTML, CSS, Bootstrap 4, JavaScript
 
 IDE: VS Code  
 
-ForVersion Control:** Git & GitHub
+ForVersion Control: Git & GitHub
